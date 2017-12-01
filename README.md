@@ -2,8 +2,11 @@
 
 ## Introduction
 An simulation code run on gama-platform.
+
 Project from [City Science Mobility++ Hackathon 2017](https://www.media.mit.edu/events/csopen-taipei-2017/).
+
 Main idea is to simulate the electric vehicles trying to find a charge station when battery is low.
+
 To provide a decision reference to Taipei City government.
 
 ## Setup
