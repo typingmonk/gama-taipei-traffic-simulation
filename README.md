@@ -16,3 +16,5 @@ To provide a decision reference to Taipei City government about how to distribut
 
 ## License 
 gama-taipei-traffic-simulation is freely redistributable under the two-clause BSD License. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
+
+`.osm` file is licensed in [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/)
