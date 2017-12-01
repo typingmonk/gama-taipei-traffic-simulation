@@ -7,7 +7,7 @@ Project from [City Science Mobility++ Hackathon 2017](https://www.media.mit.edu/
 
 Main idea is to simulate the electric vehicles trying to find a charge station when battery is low.
 
-To provide a decision reference to Taipei City government.
+To provide a decision reference to Taipei City government about how to distribute the charge station.
 
 ## Setup
 1. Download gama-platform software at [here.](http://gama-platform.org/)
